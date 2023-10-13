@@ -1,2 +1,3 @@
 congig
 new configuration
+configuration from remote
